@@ -1,11 +1,8 @@
 <table width="100%">
   <tr>
-    <td align="left" width="120">
-      <img src="apps/web/public/logo.png" alt="OpenCut Logo" width="100" />
-    </td>
     <td align="right">
-      <h1>OpenCut <span style="font-size: 0.7em; font-weight: normal;">(prev AppCut)</span></h1>
-      <h3 style="margin-top: -10px;">A free, open-source video editor for web, desktop, and mobile.</h3>
+      <h1>HashCut</h1>
+      <h3 style="margin-top: -10px;">Video editor for web, desktop, and mobile.</h3>
     </td>
   </tr>
 </table>
@@ -141,37 +138,3 @@ Before you begin, ensure you have the following installed on your system:
 6. Start the development server: `bun run dev` from (inside apps/web)
 
 The application will be available at [http://localhost:3000](http://localhost:3000).
-
-## Contributing
-
-We welcome contributions! While we're actively developing and refactoring certain areas, there are plenty of opportunities to contribute effectively.
-
-**🎯 Focus areas:** Timeline functionality, project management, performance, bug fixes, and UI improvements outside the preview panel.
-
-**⚠️ Avoid for now:** Preview panel enhancements (fonts, stickers, effects) and export functionality - we're refactoring these with a new binary rendering approach.
-
-See our [Contributing Guide](.github/CONTRIBUTING.md) for detailed setup instructions, development guidelines, and complete focus area guidance.
-
-**Quick start for contributors:**
-
-- Fork the repo and clone locally
-- Follow the setup instructions in CONTRIBUTING.md
-- Create a feature branch and submit a PR
-
-## Sponsors
-
-Thanks to [Vercel](https://vercel.com?utm_source=github-opencut&utm_campaign=oss) for their support of open-source software.
-
-<a href="https://vercel.com/oss">
-  <img alt="Vercel OSS Program" src="https://vercel.com/oss/program-badge.svg" />
-</a>
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FOpenCut-app%2FOpenCut&project-name=opencut&repository-name=opencut)
-
-## License
-
-[MIT LICENSE](LICENSE)
-
----
-
-![Star History Chart](https://api.star-history.com/svg?repos=opencut-app/opencut&type=Date)
