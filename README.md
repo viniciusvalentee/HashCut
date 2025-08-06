@@ -1,6 +1,6 @@
 <table width="100%">
   <tr>
-    <td align="right">
+    <td align="left">
       <h1>HashCut</h1>
       <h3 style="margin-top: -10px;">Video editor for web, desktop, and mobile.</h3>
     </td>
